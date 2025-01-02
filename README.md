@@ -6,7 +6,8 @@ This project aims to develop an intelligent traffic management system using Auto
 
 ## Key features
 
-1.Automatic Number Plate Recognition (ANPR)2.2.Automatic Traffic Classification and Control (ATCC)
+1.Automatic Number Plate Recognition (ANPR)
+2.Automatic Traffic Classification and Control (ATCC)
 3.Data interpolation for accurate tracking
 4.Visualization capabilities
 
