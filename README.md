@@ -4,6 +4,11 @@
 
 This project aims to develop an intelligent traffic management system using Automatic Number Plate Recognition (ANPR) and Automatic Traffic Classification and Control (ATCC). By leveraging Deep Learning and Object Detection techniques, the system will automate traffic monitoring and control in smart city environments. ANPR will detect and recognize vehicle license plates, while ATCC will classify different types of traffic. The system will improve traffic flow, reduce congestion, and enhance road safety.
 
+## Result
+
+You can view the generated output here:
+[OUTPUT](https://drive.google.com/file/d/1yjo6N0LJwBEIat62lE0guGuzFEQ9ESvC/view?usp=drive_link)
+
 ## Key features
 
 - Automatic Number Plate Recognition (ANPR)
@@ -18,7 +23,6 @@ This project aims to develop an intelligent traffic management system using Auto
 ├── model/                    # Tracking code
 ├── object_tracker/           # Main detection and vehicle tracking code
 ├── output/                   # Interpolated CSV files for visualization
-├── result/                   # Generated output videos
 ├── testing/                  # Project testing files
 ├── utils/                    # Video processing
 ├── .gitignore                # Git ignore rules
