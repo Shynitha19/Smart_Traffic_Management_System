@@ -1,0 +1,11 @@
+.venv
+env
+dataset
+.ipynb
+number_plate_detection
+read_license_plate
+.idea
+yolov8x.pt
+yolo11x.pt
+*.pt
+_pycache_
