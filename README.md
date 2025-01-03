@@ -20,10 +20,10 @@ You can view the generated output here:
 
 ```
 ├── CV_Basics/                # Computer vision and OCR learning materials
+├── testing/                  # Project testing files
 ├── model/                    # Tracking code
 ├── object_tracker/           # Main detection and vehicle tracking code
 ├── output/                   # Interpolated CSV files for visualization
-├── testing/                  # Project testing files
 ├── utils/                    # Video processing
 ├── .gitignore                # Git ignore rules
 ├── add_missing_data.py       # Data interpolation script
@@ -40,38 +40,38 @@ You can view the generated output here:
 
 ## Setup and Installation
 
-1.Clone the repository:
+1. Clone the repository:
   ```bash
   git clone https://github.com/Shynitha19/Smart_Traffic_Management_System
   cd ANPR-and-ATCC-for-Smart-Traffic-Management
   ```
 
-2.Create and activate virtual environment (recommended):
+2. Create and activate virtual environment (recommended):
   ```bash
   python -m venv venv
   source venv/bin/activate  # On Windows: venv\Scripts\activate
   ```
 
-3.Install dependencies:
+3. Install dependencies:
   ```bash
   pip install -r requirements.txt
   ```
 
 ## Running the Project
 
-1.Replace the path to your input video and your desired output directory.
+1. Replace the path to your input video and your desired output directory.
 
-2.Run the main detection:
+2. Run the main detection:
   ```bash
   python main.py
   ```
 
-3.Perform data interpolation:
+3. Perform data interpolation:
   ```bash
   python add_missing_data.py
   ```
 
-4.Generate visualization:
+4. Generate visualization:
   ```bash
   python visualize.py
   ```
