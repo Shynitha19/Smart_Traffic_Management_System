@@ -8,6 +8,7 @@ This project aims to develop an intelligent traffic management system using Auto
 
 You can view the generated output here:
 [OUTPUT](https://drive.google.com/file/d/1yjo6N0LJwBEIat62lE0guGuzFEQ9ESvC/view?usp=drive_link)
+[OUTPUT 1](https://drive.google.com/file/d/14Gio0eJGtVcvZ5fEe8B49GKHSpk7nTED/view?usp=sharing)
 
 ## Key features
 
